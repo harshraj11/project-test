@@ -1,3 +1,3 @@
 docker -v
 docker images
-docker build -t myTomcatImage:1.0 .
+docker build -t mywebapp:1.0 .
