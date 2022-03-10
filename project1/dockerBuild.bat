@@ -1,3 +1,4 @@
 docker -v
 docker images
-docker build -t mywebapp:1.0 .
+cd project1
+docker build -t mywebapp:2.0 .
